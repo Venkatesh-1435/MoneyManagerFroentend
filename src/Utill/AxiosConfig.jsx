@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const axiosConfig=axios.create({
-    baseURL: "http://localhost:9000/api/v1.0",
+    baseURL: "https://moneymanager-8ev5.onrender.com/api/v1.0",
     headers: {
         "Content-Type": "application/json",
         Accept: "application/json"
