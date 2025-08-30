@@ -1,4 +1,5 @@
-export const BASE_URL="http://localhost:9000/api/v1.0";
+//export const BASE_URL="http://localhost:9000/api/v1.0";
+export const BASE_URL="https://moneymanager-8ev5.onrender.com/api/v1.0";
 const CLOUDINARY_NAME="ddvirndgj";
  export const API_ENDPOINTS = {
     LOGIN: "/login",
